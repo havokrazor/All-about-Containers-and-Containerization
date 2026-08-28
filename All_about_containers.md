@@ -1,4 +1,4 @@
-# Comprehensive DevOps Notes: Introduction to Containers & Docker
+# Introduction to Containers
 
 These notes strictly capture the core architecture, concepts, and lifecycle details taught by the instructor in the DevOps tutorial.
 
