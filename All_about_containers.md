@@ -38,7 +38,7 @@ Container platforms do not strictly care whether they run directly on physical h
 
 ---
 
-## 3. Detailed Docker Lifecycle & The Core Concepts
+## 3. Container Lifecycle (Example - Docker)
 
 A container is conceptually defined as a pre-packaged bundle combining your core **application**, its immediate **application libraries**, and required **system dependencies**.
 
